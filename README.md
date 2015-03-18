@@ -1,5 +1,7 @@
 # cadrouter
-cad router: maze router with A-star heuristic and global routing framework
+cad router: Class project for ece556 at University of Wisconsin–Madison: create an automatic router for global net routing
+
+Implementation: maze router with A-star heuristic and global routing framework
 
 
 
